@@ -1,6 +1,5 @@
 
 source 'https://rubygems.org'
-ruby '2.1.3'
 gem 'bootstrap-sass', '~> 3.3.4.1'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
@@ -58,3 +57,4 @@ gem 'spree_simple_sales', :path => 'spree_simple_sales'
 gem 'spree_mail_settings', github: 'spree-contrib/spree_mail_settings', branch: '3-0-stable'
 gem 'actionmailer', '~> 4.2.1'
 gem 'passenger', '~> 5.0.9'
+ruby '2.2.0'
